@@ -11,7 +11,25 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+Frontend: React.js, React Native
 
+Backend: Node.js, Express.js
+
+Database: MongoDB / PostgreSQL
+
+Authentication: JWT
+
+Payment Gateway: Razorpay / Stripe
+
+DEPENDENCIES
+
+Frontend Development: 15 days
+
+Backend Development: 20 days
+
+Database Setup: 10 days
+
+Testing and Deployment: 15 days
 
 ## Proposed Solution / Architecture Diagram
 
